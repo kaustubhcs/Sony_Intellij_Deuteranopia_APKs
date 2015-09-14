@@ -1,2 +1,2 @@
 # Sony_Intellij_Deuteranopia_APKs
-None Gradle Based APKs
+Non Gradle Based APKs
